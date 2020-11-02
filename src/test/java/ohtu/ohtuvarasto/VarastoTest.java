@@ -153,14 +153,14 @@ public class VarastoTest {
         String tostring = varasto.toString();
 
         // saldon pitäisi olla sama kun lisätty määrä
-        assertEquals("saldo = " + 0.0 + ", vielä tilaa " + 10.0, tostring);
+        assertEquals("saldo = " + 1.0 + ", vielä tilaa " + 10.0, tostring);
     }
     @Test
     public void alkuSaldoPienempiKuinNolla() {
         String tostring = varasto.toString();
 
         // saldon pitäisi olla sama kun lisätty määrä
-        assertEquals("saldo = " + 1.0 + ", vielä tilaa " + 10.0, tostring);
+        assertEquals("saldo = " + 0.0 + ", vielä tilaa " + 10.0, tostring);
     }
 
 }
