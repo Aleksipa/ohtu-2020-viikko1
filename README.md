@@ -4,3 +4,4 @@
 
 [![codecov](https://codecov.io/gh/Aleksipa/ohtu-2020-viikko1/branch/main/graph/badge.svg?token=JN19VA36ED)](https://codecov.io/gh/Aleksipa/ohtu-2020-viikko1)
 
+https://github.com/Aleksipa/ohtu-tehtavat
